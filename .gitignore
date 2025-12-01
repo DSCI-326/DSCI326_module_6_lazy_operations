@@ -3,7 +3,8 @@ _other_files/
 _keys/
 
 # Data files too large for GitHub
-data/uber-raw-data-janjune-15.csv
+data/taxi-zone-lookup.csv
+data/uber-raw-data-*1[45].csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
